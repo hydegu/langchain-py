@@ -1,0 +1,7 @@
+{
+  "answer": "RAG（Retrieval-Augmented Generation）是一种结合信息检索与生成模型的技术，通过检索相关信息来增强生成文本的准确性和丰富性。",
+  "citations": [
+    "\"RAG combines the strengths of retrieval and generation to produce more informed and contextually relevant outputs.\" - AI Research Journal",
+    "\"By integrating retrieval mechanisms, RAG significantly improves the quality of generated responses in conversational AI systems.\" - Tech Innovations Review"
+  ]
+}
